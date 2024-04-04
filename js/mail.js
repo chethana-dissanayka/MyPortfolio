@@ -4,7 +4,10 @@ function SendMSG(e) {
       let email_txt = document.querySelector("#email")
       let subject_txt = document.querySelector("#subject")
       let message_txt = document.querySelector("#message")
-      let body = "Name:" + nam_txt.value + ",  " + "email:" + email_txt.value + ",  " + "subject:" + subject_txt.value +  ",  "+ "Message : " + message_txt.value
+      let body = "Name: " + nam_txt.value + "\n" +
+             "Email: " + email_txt.value + "\n" +
+             "Subject: " + subject_txt.value + "\n" +
+             "Message: " + message_txt.value;
       
   let temp = {
     from_name : nam_txt.value,
@@ -16,7 +19,7 @@ function SendMSG(e) {
     return alert("Please Fill Complete Details!!")
   }
 
-  emailjs.send('service_dgzslkp', 'template_s7cwgdl', temp, "yInfKq3RKqNrQCrdU")
+  emailjs.send('service_g30c5uf', 'template_ulvfc6v', temp, "fxZSdxCgUJdTYvfkH")
   .then((res) => {
     if(res.status == 200) {
       success()
@@ -50,6 +53,3 @@ function SendMSG(e) {
     },1000)
   }
   
-  // d9edf392-bffd-4fa3-9d98-b2566146073d => token1
-  //template_v4x8ndu
-  // service id = service_f3etz3t
