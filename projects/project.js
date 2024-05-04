@@ -15,6 +15,19 @@ const Projects = [
         project_link : "https://drive.google.com/file/d/1Sc7Jvq1Yxhto4cn5ShSQFt_0qhxSiobH/view?usp=sharing",
         project_type : "Individual Project"
     },
+
+    {
+        name : "Flower Image Classification CNN Model Project  ",
+        about : " The Flower Image Classification project uses CNNs to classify daisy, dandelion, rose, sunflower, and tulip images accurately with Python and TensorFlow. ",
+        img : "images/fcm.png",
+        gitrepo : "https://github.com/chethana-dissanayka/CNN_Python",
+        tech_stack : "Python | TensorFlow | CNN ",
+        tech_stackicons : [
+        `<img src="images/python.png" width="48px" height="48px"/>`,
+        ],
+        project_link : "https://drive.google.com/file/d/1JW5u4mmaZrq6perSQt5b3X-LU-aZuRDP/view?usp=sharing",
+        project_type : "Individual Project"
+    },
     {
         name : "Sentiment Catcher Machine Learning Project",
         about : "Developed a Sentiment Catcher machine learning application using logistic regression and decision trees for accurate sentiment classification in textual feedback, enhancing understanding of user sentiments. ",
