@@ -17,6 +17,22 @@ const Projects = [
     },
 
     {
+        name : "Full Stack Employee  Management System ",
+        about : " Employee Management System is an application for managing employee details, featuring user authentication for secure admin login, and CRUD operations to add, view, edit, and delete employee records. The user-friendly interface is built with React, Bootstrap, and Material-UI, and the robust backend is powered by Spring Boot and MySQL.",
+        img : "images/EMS.png",
+        gitrepo : "https://github.com/chethana-dissanayka/Employee_Management_CRUD_For_Admins",
+        tech_stack : " JAVASCRIPT | React |  Spring Boot | MySQL ",
+        tech_stackicons : [
+            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/react-native.png"/>`,
+            `<img src="images/springboot.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>`,
+        ],
+        project_link : "https://drive.google.com/file/d/1kK4LxA19EpFngaGDFsSwQUMuRijNy2fm/view?usp=sharing",
+        project_type : "Individual Project"
+    },
+
+    {
         name : "Flower Image Classification CNN Model Project  ",
         about : " The Flower Image Classification project uses CNNs to classify daisy, dandelion, rose, sunflower, and tulip images accurately with Python and TensorFlow. ",
         img : "images/fcm.png",
