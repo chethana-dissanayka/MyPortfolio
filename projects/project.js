@@ -48,13 +48,13 @@ const Projects = [
     {
         name : "Gender Detection CNN Model Project  ",
         about : " The Gender Detector Model quickly identifies whether the person in the image is a man or a woman. This model was created using the power of Deep Learning with Keras, Tensorflow, and OpenCV. ",
-        img : "images/fcm.png",
-        gitrepo : "https://github.com/chethana-dissanayka/CNN_Python",
+        img : "images/gender.png",
+        gitrepo : "https://github.com/chethana-dissanayka/Gender_Detection",
         tech_stack : "Python | TensorFlow | CNN ",
         tech_stackicons : [
         `<img src="images/python.png" width="48px" height="48px"/>`,
         ],
-        project_link : "https://drive.google.com/file/d/1JW5u4mmaZrq6perSQt5b3X-LU-aZuRDP/view?usp=sharing",
+        project_link : "https://drive.google.com/file/d/1kK4LxA19EpFngaGDFsSwQUMuRijNy2fm/view?usp=sharing",
         project_type : "Individual Project"
     },
     {
