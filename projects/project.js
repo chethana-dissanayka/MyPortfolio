@@ -54,7 +54,7 @@ const Projects = [
         tech_stackicons : [
         `<img src="images/python.png" width="48px" height="48px"/>`,
         ],
-        project_link : "https://drive.google.com/file/d/1kK4LxA19EpFngaGDFsSwQUMuRijNy2fm/view?usp=sharing",
+        project_link : "https://drive.google.com/file/d/1vbdMk4oAba9IDTakTDrhb7VNMbkGVaDb/view?usp=sharing",
         project_type : "Individual Project"
     },
     {
