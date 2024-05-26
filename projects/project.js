@@ -24,8 +24,8 @@ const Projects = [
         tech_stack : " JAVASCRIPT | React |  Spring Boot | MySQL ",
         tech_stackicons : [
             `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-            `<img src="https://img.icons8.com/color/50/000000/react-native.png" width="48px" height="48px"/>`,
-            `<img src="images/springboot.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/react-native.png">`,
+            `<img src="images/springboot.png" width="48px" height="48px"//>`,
             `<img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>`,
         ],
         project_link : "https://drive.google.com/file/d/1kK4LxA19EpFngaGDFsSwQUMuRijNy2fm/view?usp=sharing",
